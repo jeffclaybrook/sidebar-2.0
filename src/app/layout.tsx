@@ -33,7 +33,7 @@ export default function RootLayout({
           <SidebarProvider>
             <AppSidebar />
             <main className="flex flex-1 flex-col gap-4 p-4 w-full h-screen">
-              <div className="flex items-center gap-3">
+              <div className="flex items-center justify-between">
                 <SidebarTrigger />
                 <ModeToggle />
               </div>
