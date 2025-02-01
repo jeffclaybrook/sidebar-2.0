@@ -68,10 +68,6 @@ export function NavUser({
         Account
        </DropdownMenuItem>
        <DropdownMenuItem>
-        <BadgeCheck />
-        Account
-       </DropdownMenuItem>
-       <DropdownMenuItem>
         <CreditCard />
         Billing
        </DropdownMenuItem>
